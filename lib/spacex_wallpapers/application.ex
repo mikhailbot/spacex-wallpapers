@@ -5,7 +5,7 @@ defmodule SpacexWallpapers.Application do
 
   use Application
 
-  alias SpacexWallpapersWeb
+  alias SpacexWallpapersWeb.Endpoint
 
   # See https://hexdocs.pm/elixir/Application.html
   # for more information on OTP Applications
